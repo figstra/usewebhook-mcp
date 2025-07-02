@@ -8,6 +8,7 @@
 - 🔍 Inspect and diff HTTP request payloads
 - 🔁 Replay requests from history
 - 🔀 Forward requests to your `localhost`
+- ⚡️ Powered by [UseWebhook](https://usewebhook.com)
 
 ## 📦 Installation
 
